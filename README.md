@@ -65,7 +65,7 @@ Create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 - Deliverable: Plotting The multiple-line Chart
   - <img src="analysis/PyBer_fare_summary.png" width="70%" height="70%">
   - The multiple-line chart shows:
-    - The trend remains equal no matter the city type
+    - The trend remains equal no matter the city type.
     - Urban cities has reached its maximum total fare to $2500 in the month of Feb, hovewer, for rural area maximum total fare reached to $500 in month of April.
     - PyBer has more profits in urban cities than in suburban and rural cities.
 

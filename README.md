@@ -2,6 +2,7 @@
 Module 5
 
 # Project Overview
+The purpose of this project is to perform exploratory analysis on data for a rideshare company called PyBer in different type of city including urban, suburban and rural. This report summary will help visualize the company on the demand for rides and drivers, as well as in making decisions and estimating future rates and plans.
 
 ## Resources
 Data Source: ride_data.csv, city_data.csv

@@ -58,8 +58,13 @@ The analysis above shows that urban cities have the greatest number of rides, dr
 Create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. The goal of this analysis is to create data visualizations for PyBer to help improve access to rideshare services and determine affordability for underserved cities.
 
 ## Results (Challenge)
-Statistical overview and summary.
+- Deliverable 1: Statistical overview and summary.
+  - <img src="analysis/c5_Fig1.png" width="50%" height="50%">
+  - The summary dataframe shows that fares, trips, and drivers show specific patterns. The rates show a negative correlation with the number of rides and drivers.
 
-<img src="analysis/c5_Fig1.png" width="50%" height="50%">
-
-The summary dataframe shows that fares, trips, and drivers show specific patterns. The rates show a negative correlation with the number of rides and drivers.
+- Deliverable: Plotting The multiple-line Chart
+  - <img src="analysis/PyBer_fare_summary.png" width="50%" height="50%">
+  - The multiple-line chart shows:
+    - The trend remains equal no matter the city type
+    - Urban cities has reached its maximum total fare to $2500 in the month of Feb, hovewer, for rural area maximum total fare reached to $500 in month of April.
+    - PyBer has more profits in urban cities than in suburban and rural cities.

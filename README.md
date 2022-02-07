@@ -52,6 +52,7 @@ The analysis shows that the total number of rides in rural cities is 13 to 5 tim
   - The percent of total drivers. 
   <img src="analysis/Fig7.png" width="50%" height="50%">
 
-The 
+The analysis above shows that urban cities have the greatest number of rides, drivers and total fares, although, urban cities have the lowest average fare per trip. Rural cities have the least number of rides, drivers, and total fares, however, rural cities have the highest average fare per ride.
+
 # Challenge Overview
 Create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type.

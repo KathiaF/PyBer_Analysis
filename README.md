@@ -59,11 +59,11 @@ Create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 
 ## Results (Challenge)
 - Deliverable 1: Statistical overview and summary.
-  - <img src="analysis/c5_Fig1.png" width="50%" height="50%">
+  - <img src="analysis/c5_Fig1.png" width="70%" height="70%">
   - The summary dataframe shows that fares, trips, and drivers show specific patterns. The rates show a negative correlation with the number of rides and drivers.
 
 - Deliverable: Plotting The multiple-line Chart
-  - <img src="analysis/PyBer_fare_summary.png" width="50%" height="50%">
+  - <img src="analysis/PyBer_fare_summary.png" width="70%" height="70%">
   - The multiple-line chart shows:
     - The trend remains equal no matter the city type
     - Urban cities has reached its maximum total fare to $2500 in the month of Feb, hovewer, for rural area maximum total fare reached to $500 in month of April.

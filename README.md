@@ -13,9 +13,20 @@ Software: Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6
 
 - Determine the mean, median, and mode for the following:
   - The total number of rides for each city type.
+    - Urban: 1625 rides
+    - Suburban: 625 rides
+    - Rural: 125 rides
+     
   - The average fares for each city type.
+    - Urban: $24.53
+    - Suburban: $30.97
+    - Rural: $34.62
+    
   - The total number of drivers for each city type.
-  
+    - Urban: 2405 drivers
+    - Suburban: 490 drivers
+    - Rural: 78 drivers
+
 - Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
   - The number of rides for each city type.
   <img src="analysis/Fig2.png" width="50%" height="50%">
@@ -36,3 +47,5 @@ Software: Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6
   - The percent of total drivers. 
   <img src="analysis/Fig7.png" width="50%" height="50%">
   
+# Challenge Overview
+Create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type.

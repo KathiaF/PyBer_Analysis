@@ -72,6 +72,6 @@ Create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 # Summary
 Based on the resultsmy business recommendations are:
 1.  Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand.
-2.  To solve this issue Pyber could create incentives or promotions to attract more drivers in rural and suburban cities to generate more profit
-3.  Finaly, advertise for drivers in all cities during non-peak months and increasing the fares in the urban cities to compensate drivers
+2.  To solve this issue Pyber could create incentives or promotions to attract more drivers in rural and suburban cities to generate more profit.
+3.  Finaly, advertise for drivers in all cities during non-peak months and increasing the fares in the urban cities to compensate drivers.
 

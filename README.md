@@ -47,3 +47,5 @@ Software: Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6
   - The percent of total drivers. 
   <img src="analysis/Fig7.png" width="50%" height="50%">
   
+# Challenge Overview
+Create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type.
